@@ -1,6 +1,4 @@
-# Desktop-Learning-Assistance 
-
-# Student AI Assistant
+# 🤖 AI Learning Assistance 🤖
 
 An intelligent assistant application designed to help students with their academic tasks and everyday needs. This Python-based project uses advanced OCR and AI-powered chat functionalities to make student life easier.
 
