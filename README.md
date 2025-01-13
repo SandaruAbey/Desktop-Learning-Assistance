@@ -27,37 +27,37 @@ Make sure you have the following installed:
 - Tesseract-OCR ([Download Here](https://github.com/tesseract-ocr/tesseract))
 - Pip package manager
 
-### Python Dependencies
+## Python Dependencies
 Install the required Python libraries using:
 
-#### Install ttk themes
+### Install ttk themes
 pip install ttkthemes
 
-# Install emoji
+### Install emoji
 pip install emoji
 
-# Install PyMuPDF
+### Install PyMuPDF
 pip install pymupdf
 
-# Install Google's Generative AI library
+### Install Google's Generative AI library
 pip install google-generativeai
 
-# Install Deep Translator
+### Install Deep Translator
 pip install deep-translator
 
-# Install pytesseract
+### Install pytesseract
 pip install pytesseract
 
-# Install Pillow (PIL fork)
+### Install Pillow (PIL fork)
 pip install pillow
 
-#🔧 Setup and Usage
+##🔧 Setup and Usage
 1. Install Dependencies
 2. Download Tesseract-OCR ([Download Here](https://github.com/tesseract-ocr/tesseract))
 3. pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 4. Run the Application -> python StudentAIAssistant.py
 
-# Exporting to .exe (Optional)
+## Exporting to .exe (Optional)
 1. pip install pyinstaller
 2. pyinstaller --onefile --windowed learningAI.py
 
