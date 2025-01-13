@@ -30,7 +30,7 @@ Make sure you have the following installed:
 ### Python Dependencies
 Install the required Python libraries using:
 
-# Install ttk themes
+#### Install ttk themes
 pip install ttkthemes
 
 # Install emoji
