@@ -38,7 +38,7 @@ class StudentAIAssistant:
         self.header_font = font.Font(family="Iskoola Pota", size=16, weight="bold")
         
         # Initialize Gemini API with environment variable
-        genai.configure(api_key='AIzaSyATgL92t9qBCe4eqFX1cSfyfkzKMooQM48')
+        genai.configure(api_key='YOUR_GEMINI_API_KEY')
         
         # Configure Gemini model
         generation_config = {
